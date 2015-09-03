@@ -1,0 +1,29 @@
+a, a:hover, a:visited {
+  color: #fff;
+}
+body {
+  background: #333;
+  color: #fff;
+  font-size: 2em;
+  font-family: 'Open Sans'
+}
+#timeDisplay, #breakDisplay {
+  padding: 10px;
+}
+.buttons {
+  padding-top: 20px;
+}
+#reset {
+  font-size: 1.2em;
+}
+#timer {
+  display: inline-block;
+  text-align: center;
+  font-size: 3em;
+  margin: auto;
+  padding: 50px;
+  border: 10px solid #d9534f;
+  border-radius: 300px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
